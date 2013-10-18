@@ -1,0 +1,55 @@
+{
+	"album": {
+		"name": "Gallery experiment."
+	},
+	"photos": [
+		{
+			"id": "1",
+			"image": "image_1.jpg",
+			"thumb_url": "thumb/thumb_1.jpg",
+			"title": "Animal 1",
+			"date": "June 17, 2013",
+			"animal": "Puma"
+		},
+		{
+			"id": "2",
+			"image": "image_2.jpg",
+			"thumb_url": "thumb/thumb_2.jpg",
+			"title": "Animal 2",
+			"date": "June 18, 2013",
+			"animal": "Porcupine"
+		},
+		{
+			"id": "3",
+			"image": "image_3.jpg",
+			"thumb_url": "thumb/thumb_3.jpg",
+			"title": "Animal 3",
+			"date": "July 16, 2013",
+			"animal": "Guacamaya"
+		},
+		{
+			"id": "4",
+			"image": "image_4.jpg",
+			"thumb_url": "thumb/thumb_4.jpg",
+			"title": "Animal 4",
+			"date": "August 1, 2013",
+			"animal": "Ladybug"
+		},
+		{
+			"id": "5",
+			"image": "image_5.jpg",
+			"thumb_url": "thumb/thumb_5.jpg",
+			"title": "Animal 5",
+			"date": "September 3, 2013",
+			"animal": "Iguana"
+		},
+		{
+			"id": "6",
+			"image": "image_6.jpg",
+			"thumb_url": "thumb/thumb_6.jpg",
+			"title": "Animal 6",
+			"date": "September 14, 2013",
+			"animal": "Elephant"
+		}
+	]
+}
